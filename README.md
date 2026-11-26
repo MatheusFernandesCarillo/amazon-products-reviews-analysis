@@ -2,8 +2,9 @@
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=power-bi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/Modelagem-Star_Schema-blue?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Modelagem-Star_Schema-blue?style=for-the-badge)
+
 
 ## Prévia do Dashboard
 
